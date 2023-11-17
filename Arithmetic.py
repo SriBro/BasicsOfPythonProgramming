@@ -1,0 +1,6 @@
+print("Addition : ",3+5)
+print("Subtraction : ",3-5)
+print("Division : ",3/5)
+print("Multiplication : ",3*5)
+print("Exponentiation : ",3**5)
+print("Qoutient : ",3//5)
